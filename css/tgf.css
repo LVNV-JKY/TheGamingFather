@@ -1,0 +1,53 @@
+body {
+	
+}
+
+/*.custom-background {
+	background-image: url("https://cdn.wccftech.com/wp-content/uploads/2017/11/Star-Wars-Battlefront-II-campaign.jpg");
+	background-position: fixed;
+	background-repeat: no-repeat;
+}*/
+
+.logo {
+	width: 100px;
+	height: 56px;
+	padding-bottom: 5px;
+}
+
+.navbar {
+	margin: 0;
+}
+
+.navbar-nav {
+	font-size: 16px;
+}
+
+.navbar-right {
+	font-size: 2em;
+}
+
+
+.featured-content img {
+	width: 100%;
+	height: 500px;
+}
+
+.featured-post {
+	min-height: 200px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.featured-post article {
+	background-color: #DD8011;
+	color: white;
+	min-height: 200px;
+	margin-left: 5px;
+	margin-right: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+footer {
+	color: white;
+}
